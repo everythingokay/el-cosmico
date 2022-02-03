@@ -6806,11 +6806,11 @@ body {
 #book {
   position: fixed;
   bottom: 30px;
-  right: 40px; }
+  right: 50px; }
 
 .book {
   line-height: 1.2em;
-  font-weight: 800;
+  font-weight: 700;
   font-size: .9rem; }
 
 #footer {
