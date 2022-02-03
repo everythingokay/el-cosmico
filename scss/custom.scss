@@ -30,16 +30,11 @@ body {
     border-radius: 100%;
 }
 
-.flex-row {
-    max-height: 300px;
-}
-
 #book {
     position: fixed;
-    bottom: 30px;
-    right: 50px;
+    bottom: 80px;
+    right: 80px;
 }
-
 
 .book {
     line-height: 1.2em;
@@ -48,10 +43,6 @@ body {
 }
 
 /////
-
-#footer {
-    font-weight: 100;
-}
 
 @media (max-width: 768px) {
     .navbar {

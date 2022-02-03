@@ -6804,21 +6804,15 @@ body {
   height: 10px;
   border-radius: 100%; }
 
-.flex-row {
-  max-height: 300px; }
-
 #book {
   position: fixed;
-  bottom: 30px;
-  right: 50px; }
+  bottom: 80px;
+  right: 80px; }
 
 .book {
   line-height: 1.2em;
   font-weight: 700;
   font-size: .9rem; }
-
-#footer {
-  font-weight: 100; }
 
 @media (max-width: 768px) {
   .navbar .nav-link:hover {
