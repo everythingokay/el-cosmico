@@ -6804,6 +6804,9 @@ body {
   height: 10px;
   border-radius: 100%; }
 
+.flex-row {
+  max-height: 300px; }
+
 #book {
   position: fixed;
   bottom: 30px;
