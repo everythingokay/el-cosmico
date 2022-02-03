@@ -30,9 +30,16 @@ body {
 }
 
 #book {
-    position: absolute;
-    bottom: 5;
-    right: 0;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+}
+
+
+.book {
+    line-height: 1.2em;
+    font-weight: 800;
+    font-size: .9rem;
 }
 
 /////
