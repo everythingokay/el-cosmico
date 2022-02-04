@@ -6804,6 +6804,10 @@ body {
   height: 10px;
   border-radius: 100%; }
 
+.gallery {
+  height: 100%;
+  object-fit: cover; }
+
 #book {
   position: fixed;
   bottom: 80px;

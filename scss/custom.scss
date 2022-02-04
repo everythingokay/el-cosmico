@@ -30,6 +30,12 @@ body {
     border-radius: 100%;
 }
 
+.gallery {
+    height: 100%;
+    object-fit: cover;
+    // object-position: center;
+}
+
 #book {
     position: fixed;
     bottom: 80px;
