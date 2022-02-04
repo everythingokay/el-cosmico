@@ -6816,6 +6816,9 @@ body {
 
 @media (max-width: 768px) {
   .navbar .nav-link:hover {
-    border-bottom: none; } }
+    border-bottom: none; }
+
+  #book {
+    display: none; } }
 
 /*# sourceMappingURL=app.css.map */
