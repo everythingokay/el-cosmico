@@ -6805,7 +6805,7 @@ body {
   border-radius: 100%; }
 
 .gallery {
-  height: 100%;
+  height: 400px;
   object-fit: cover; }
 
 #book {
